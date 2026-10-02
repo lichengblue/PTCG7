@@ -1,0 +1,1 @@
+{"name":"我的卡冊","short_name":"卡冊","start_url":"./index.html","scope":"./","display":"standalone","orientation":"any","background_color":"#451a03","theme_color":"#451a03","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
